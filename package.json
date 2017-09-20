@@ -1,0 +1,15 @@
+{
+  "name": "pubsub-of-the-week",
+  "version": "1.0.0",
+  "description": "Publix Weekly Ad Scraper. Returns the sub on sale this week.",
+  "main": "app.js",
+  "dependencies": {
+    "request": "^2.81.0",
+    "cheerio": "^1.0.0-rc.2",
+    "moment": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "author": "Taylor Walker",
+  "license": "MIT"
+}
